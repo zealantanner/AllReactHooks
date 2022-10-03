@@ -1,0 +1,16 @@
+@use 'vars' as vars;
+
+body {
+    background-color: vars.$dark1;
+    h1 {
+        color:vars.$light3;
+    }
+    h1, h2, h3, h4, h5, h6, p {
+        // margin: 0 0 10px 0;
+        padding: 0;
+    }
+}
+#mainContainer {
+    display: flex;
+    flex-flow: column;
+}
