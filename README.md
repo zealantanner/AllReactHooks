@@ -1,13 +1,17 @@
-# Getting Started with Create React App
+# Demo of all React hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For this project I am following along with a tutorial on how each react hook works and then I'm using the hooks I learn and making my own thing out of it
+
+## Tutorial Link:
+https://youtu.be/LlvBzyy-558
+
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
